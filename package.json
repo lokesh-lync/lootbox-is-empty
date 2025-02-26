@@ -1,0 +1,16 @@
+{
+  "name": "is_empty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@lyncworld/lootbox-evm-sdk": "^3.1.0",
+    "ethers": "5.7"
+  }
+}
